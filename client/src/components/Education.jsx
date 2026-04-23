@@ -21,16 +21,24 @@ const Education = () => {
               </div>
               <div className="timeline-item">
                 <div className="timeline-dot"></div>
-                <div className="timeline-date">2022 - 2024</div>
+                <div className="timeline-date">2023 - 2024</div>
                 <h4 className="timeline-title">Higher Secondary Education</h4>
+                <span className="percentage-badge">📊 Percentage: 79.69%</span>
                 <p className="timeline-text">Completed higher secondary education in Commerce stream with a focus on Business Studies, Accountancy, and Economics.</p>
+              </div>
+              <div className="timeline-item">
+                <div className="timeline-dot"></div>
+                <div className="timeline-date">2022 - 2023</div>
+                <h4 className="timeline-title">Secondary Education</h4>
+                <span className="percentage-badge">📊 Percentage: 67.79%</span>
+                <p className="timeline-text">Completed secondary education in Commerce stream with a focus on Business Studies, Accountancy, and Economics.</p>
               </div>
             </div>
           </div>
 
           <div className="education-column">
             <h3 className="education-heading"><i className="fas fa-certificate"></i> Certifications</h3>
-            <div className="timeline">
+            <div className="timeline timeline-scrollable">
               <div className="timeline-item">
                 <div className="timeline-dot"></div>
                 <div className="timeline-date">2026</div>
