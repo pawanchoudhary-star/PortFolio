@@ -32,7 +32,7 @@ const Hero = () => {
         </p>
         <div className="hero-buttons">
           <a href="#contact" className="btn btn-primary" onClick={(e) => scrollTo(e, 'contact')}>
-            Get in Touch
+            Connect Me
           </a>
           <a href="#projects" className="btn btn-outline" onClick={(e) => scrollTo(e, 'projects')}>
             View Work

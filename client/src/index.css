@@ -636,6 +636,27 @@ ul {
   color: var(--text-muted);
 }
 
+.cert-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--primary);
+  font-size: 14px;
+  font-weight: 600;
+  padding: 6px 14px;
+  background: var(--bg-accent-soft);
+  border-radius: 20px;
+  border: 1px solid rgba(37, 99, 235, 0.15);
+  transition: var(--transition);
+}
+
+.cert-link:hover {
+  background: var(--primary);
+  color: #fff;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.25);
+}
+
 /* =========================================================================
    CONTACT SECTION
 ========================================================================= */

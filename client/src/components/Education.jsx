@@ -15,15 +15,15 @@ const Education = () => {
             <div className="timeline">
               <div className="timeline-item">
                 <div className="timeline-dot"></div>
-                <div className="timeline-date">2021 - Present</div>
+                <div className="timeline-date">2025 - Present</div>
                 <h4 className="timeline-title">Bachelor of Computer Applications (BCA)</h4>
                 <p className="timeline-text">Focusing on practical software development, data structures, and modern web technologies.</p>
               </div>
               <div className="timeline-item">
                 <div className="timeline-dot"></div>
-                <div className="timeline-date">2019 - 2021</div>
+                <div className="timeline-date">2022 - 2024</div>
                 <h4 className="timeline-title">Higher Secondary Education</h4>
-                <p className="timeline-text">Completed with a strong foundation in Science and Mathematics.</p>
+                <p className="timeline-text">Completed higher secondary education in Commerce stream with a focus on Business Studies, Accountancy, and Economics.</p>
               </div>
             </div>
           </div>
@@ -33,15 +33,35 @@ const Education = () => {
             <div className="timeline">
               <div className="timeline-item">
                 <div className="timeline-dot"></div>
-                <div className="timeline-date">2023</div>
-                <h4 className="timeline-title">Full Stack Web Development</h4>
-                <p className="timeline-text">Comprehensive bootcamp covering React, Node.js, Express, and MongoDB.</p>
+                <div className="timeline-date">2026</div>
+                <h4 className="timeline-title">Introduction to Frontend Developer</h4>
+                <p className="timeline-text">
+                  <a href="https://simpli.app.link/xdbcLzliOZb" target="_blank" rel="noopener noreferrer" className="cert-link">View Certificate</a>
+                </p>
               </div>
               <div className="timeline-item">
                 <div className="timeline-dot"></div>
-                <div className="timeline-date">2023</div>
-                <h4 className="timeline-title">Advanced React Patterns</h4>
-                <p className="timeline-text">Deep dive into custom hooks, state management, and performance optimization techniques.</p>
+                <div className="timeline-date">2026</div>
+                <h4 className="timeline-title">React</h4>
+                <p className="timeline-text">
+                  <a href="https://simpli.app.link/6rsJsTLiOZb" target="_blank" rel="noopener noreferrer" className="cert-link">View Certificate</a>
+                </p>
+              </div>
+              <div className="timeline-item">
+                <div className="timeline-dot"></div>
+                <div className="timeline-date">2026</div>
+                <h4 className="timeline-title">C++</h4>
+                <p className="timeline-text">
+                  <a href="https://simpli.app.link/iU6nVhxiO" target="_blank" rel="noopener noreferrer" className="cert-link">View Certificate</a>
+                </p>
+              </div>
+              <div className="timeline-item">
+                <div className="timeline-dot"></div>
+                <div className="timeline-date">2026</div>
+                <h4 className="timeline-title">SQL</h4>
+                <p className="timeline-text">
+                  <a href="https://simpli.app.link/Z29Ush4hOZb" target="_blank" rel="noopener noreferrer" className="cert-link">View Certificate</a>
+                </p>
               </div>
             </div>
           </div>
