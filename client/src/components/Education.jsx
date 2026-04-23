@@ -15,7 +15,7 @@ const Education = () => {
             <div className="timeline">
               <div className="timeline-item">
                 <div className="timeline-dot"></div>
-                <div className="timeline-date">2025 - Present</div>
+                <div className="timeline-date">2025 - 2028</div>
                 <h4 className="timeline-title">Bachelor of Computer Applications (BCA)</h4>
                 <p className="timeline-text">Focusing on practical software development, data structures, and modern web technologies.</p>
               </div>
