@@ -23,14 +23,14 @@ const Education = () => {
                 <div className="timeline-dot"></div>
                 <div className="timeline-date">2023 - 2024</div>
                 <h4 className="timeline-title">Higher Secondary Education</h4>
-                <span className="percentage-badge">📊 Percentage: 79.69%</span>
+                <span className="percentage-badge">📊 Percentage: 79.60%</span>
                 <p className="timeline-text">Completed higher secondary education in Commerce stream with a focus on Business Studies, Accountancy, and Economics.</p>
               </div>
               <div className="timeline-item">
                 <div className="timeline-dot"></div>
                 <div className="timeline-date">2022 - 2023</div>
                 <h4 className="timeline-title">Secondary Education</h4>
-                <span className="percentage-badge">📊 Percentage: 67.79%</span>
+                <span className="percentage-badge">📊 Percentage: 70.50%</span>
                 <p className="timeline-text">Completed secondary education in Commerce stream with a focus on Business Studies, Accountancy, and Economics.</p>
               </div>
             </div>
